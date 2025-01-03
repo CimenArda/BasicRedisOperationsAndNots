@@ -1,0 +1,57 @@
+Bölüm 1: Caching Nedir ? Redis'i Neden Öğreniyoruz ?
+- Caching Nedir? Syf 1
+- Caching'in Yazılıma Katkıları Nelerdir? Syf 1
+- Ne Tarz Veriler Cache'lenir? Syf 1
+- Caching Yaklaşımları Nelerdir? Syf 1
+
+Bölüm 2: Redis & Kurulum & Dcokerize & Redisinsight Arayüzü
+- Kurulum & Dockerize & Redisinsight Arayüzü Syf 2 3 4
+
+Bölüm 3: Redis Veri Türleri Nelerdir ?
+- Genel Bakış Syf 5
+- String Syf 5
+- Lists Syf 6
+- Set Syf 7
+- Sorted Set Syf 8 
+- Redis Hash Syf 8 
+- Redis Türkçe Kullanım Syf 8 
+
+Bölüm 4 : In Memory Cache - Distributed Cache Uygulayalım
+- In-Memory Cache Syf 9 10 11 
+- In-Memory Cache Absolute & Sliding Expiration Syf 12  13 
+- Distributed Cache Syf 14 15 16 17 18 
+
+Bölüm 5 : Pub/Sub
+- Publish/ Subscribe Özelliği - Message Broker Syf 18 
+- Redis CLI İle Syf 19 
+- Redis Insgiht İle Syf 19 
+- Redis Api İle Syf 20 
+- Redis Patern-Matching Subscription Syf  21 
+
+Bölüm 6 : Redis Replication 
+- Redis Replication Davranışı Nedir? Nasıl Konfigüre Edilir? Syf 22 
+- Redis Replication Davranışındaki Temel Terminolojiler Syf 23 
+- Replication Uygulayalım Syf 24 25 26 
+
+
+Bölüm 7:Redis Sentinel 
+- Redis Sentinel Yapısı Nedir? Nasıl Konfigüre Edilir? Syf 27 
+- Redis Sentinel’ı Hangi Durumlarda kullanmak İsteriz ? Syf 27 
+- Redis Sentinel Yapısının Temel Kavramları Nelerdir? Syf 27 28 
+- Redis Sentinel Nasıl Çalışır? Syf 29 30 
+- Sentinel Tasarımını Örneklendirme İçin Altyapı Kurulumu Syf 30 31 
+- Tek bir Sentinel Sunucusunun Oldugu Mimari Nasıl Tasarlanır ? Syf 32 Syf 33 
+- Birden Fazla Sentinel Sunucusunun Oldugu Mimari Nasıl Tasarlanır ? Syf 33 34 35 
+- Sentinel.conf Syf 35 
+- Genel Özet Syf 35 
+
+
+
+
+
+
+
+
+
+
+
